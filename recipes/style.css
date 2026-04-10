@@ -1,0 +1,53 @@
+.box{
+    border: 2px solid rgb(238, 238, 24);
+    padding: 20px;
+    display: inline-flex;
+    color: purple;
+}
+.green{
+    color: #4dca4d;
+    text-align: center;
+}
+.style {
+    color: purple;
+    font-style: oblique;
+}
+ul{
+    display: block;
+    font-style: italic;
+    font-size: 16px;
+}
+span{
+    border: 2px solid rebeccapurple;
+}
+div{
+    display: inline;
+    background-color: #d3e3fd;
+
+}
+.steps{
+    border: 2px solid black;
+    padding: 12px;
+    padding-left: 20px;
+    color: #117511;
+    display: inline-block;
+    margin-bottom: 20px ;
+}
+.side{
+    text-align: left;
+    color: red;
+    border: 2px solid yellow;
+    margin: auto;
+
+}
+h2
+{
+    text-align: center;
+}
+a{
+    display: inline;
+    color: white;
+    background-color: rgb(32, 215, 32);
+    padding: 12px;
+    font-weight: 400;
+}
